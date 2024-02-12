@@ -27,3 +27,4 @@
 ## Autres
 
  - Pour pouvoir effectuer ce travail, je me suis aidé de la correction effectué par Mr.Buffa *(pour la détection de l'alignement ainsi que l'échange de cookie) ainsi que de l'intelligence artificielle chat gpt
+ - La musique utilisée est "Japanese Garden" de Blue Wednesday
